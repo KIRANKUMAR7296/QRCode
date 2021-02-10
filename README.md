@@ -2,7 +2,7 @@
 
 QRCode Generator using qrcode Library 
 
-pip install **qrcode**
+[pip install **qrcode**](https://pypi.org/project/qrcode/)
 
 Pure Python **Quick Response** Code Generator.
 
@@ -12,6 +12,10 @@ Code consist of **Black** Modules arranged in **Square** Pattern on White Backgr
 
 ---
 
-pip install **opencv-python**
+# Open Source Computer Vision
+
+[OpenCV](https://opencv.org/)
+
+[pip install **opencv-python**](https://pypi.org/project/opencv-python/)
 
 Read Image and Return Encoded String and Image Converted to NumPy Array
