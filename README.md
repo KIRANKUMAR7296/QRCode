@@ -10,7 +10,6 @@ QR : 2D Pictographic Code used for Fast Readability.
 
 Code consist of **Black** Modules arranged in **Square** Pattern on White Background.
 
----
 
 # Open Source Computer Vision
 
