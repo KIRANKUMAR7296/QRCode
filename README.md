@@ -17,4 +17,4 @@ Code consist of **Black** Modules arranged in **Square** Pattern on White Backgr
 
 [pip install **opencv-python**](https://pypi.org/project/opencv-python/)
 
-Read Image and Return Encoded String and Image Converted to NumPy Array
+Read Image and Return Encoded String and Image Converted to **NumPy** Array
