@@ -6,7 +6,7 @@ QRCode Generator using qrcode Library
 
 Pure Python **Quick Response** Code Generator.
 
-QR : 2D Pictographic Code used for Fast Readability. 
+QR : 2 Dimensional Pictographic Code used for Fast Readability. 
 
 Code consist of **Black** Modules arranged in **Square** Pattern on White Background.
 
